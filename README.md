@@ -52,7 +52,17 @@ Our proposed Bidirectional LSTM approach incorporates the following technical in
 If you use this code or the findings in your research, please cite our paper:
 
 ```
-O. Oak, R. Nazre, R. Budke and Y. Mahatekar, "A Novel Multivariate Bi-LSTM model for Short-Term Equity Price Forecasting," 2024 5th IEEE Global Conference for Advancement in Technology (GCAT), Bangalore, India, 2024, pp. 1-6, doi: 10.1109/GCAT62922.2024.10923989.
+@INPROCEEDINGS{10923989,
+  author={Oak, Omkar and Nazre, Rukmini and Budke, Rujuta and Mahatekar, Yogita},
+  booktitle={2024 5th IEEE Global Conference for Advancement in Technology (GCAT)}, 
+  title={A Novel Multivariate Bi-LSTM model for Short-Term Equity Price Forecasting}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Deep learning;Accuracy;Correlation;Time series analysis;Bidirectional long short term memory;Companies;Predictive models;Market research;Forecasting;Stock markets;Deep Learning;LSTM;Bidirectional LSTM;RNN;Time Series;Capital Markets},
+  doi={10.1109/GCAT62922.2024.10923989}}
+
 ```
 ## Authors
 
